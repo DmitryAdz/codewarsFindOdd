@@ -5,6 +5,7 @@ import java.util.ArrayList;
 public class FindOdd {
 
 	public static int findIt(int[] a) {
+		//test
 		int numbOdd = 0;
 		int sizeA = a.length;
 		int tempElement = a[0];
